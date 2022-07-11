@@ -8,3 +8,5 @@ For navigation, use left-right, up-down arrows.
 ->If he touches crab he will lose 1 point and if he touches octopus he will lose 3 points.
 ->if he touches a shark, he'll lose one life (three lives will be given at the beginning).
 ->Then if he scores 100 points, he will win the game.
+
+The game can be played on scratch website: https://scratch.mit.edu/
